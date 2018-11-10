@@ -1,0 +1,2 @@
+# FairyBot
+Bot discord
